@@ -1,0 +1,2 @@
+Aplicación flask para el manejo de tareas en una base de datos, monta una página web y permite la conexión con la base de datos y la edición de la misma.
+Debería poder inicializarse simplemente ejecutando config.py teniendo todo lo específicado en req.txt.
